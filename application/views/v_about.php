@@ -9,17 +9,18 @@
     <br> 
     <h4>Alamat</h4> 
     <ul type="none">
-        <li> Jalan Ciledug Raya No. 168 Pesanggrahan</li> 
+        <li> JL. H.M. Alif 3, Kukusan, Kecamatan Beji, Kota Depok, Jawa Barat</li> 
     </ul>
 
     <h4>Tempat Lahir</h4>
     <ul type="none">
-        <li>Cirebon</li>
+        <li>Sragen</li>
     </ul>
 
     <h4>Olah Raga Favorit</h4> 
     <ul type="square">
+        <li>Futsal</li>
+        <li>kempo</li>
         <li>Bulutangkis</li>
-        <li>Catur</li>
     </ul>
 </section>
